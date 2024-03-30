@@ -1,0 +1,2 @@
+# DigiApi
+Lista de digimones
