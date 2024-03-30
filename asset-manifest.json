@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digilist/static/css/main.bba9a8c1.css",
+    "main.js": "/Digilist/static/js/main.2eff1bdc.js",
+    "static/media/logo.png": "/Digilist/static/media/logo.a3db6f0afceb240b9e23.png",
+    "index.html": "/Digilist/index.html",
+    "main.bba9a8c1.css.map": "/Digilist/static/css/main.bba9a8c1.css.map",
+    "main.2eff1bdc.js.map": "/Digilist/static/js/main.2eff1bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba9a8c1.css",
+    "static/js/main.2eff1bdc.js"
+  ]
+}
